@@ -1,17 +1,17 @@
-Timestamp,Nama,Nomor HP,Pekerjaan,Aplikasi yang paling sering digunakan,Hobby,Ukuran Laptop,Rentang harga,Jenis laptop yang digunakan
+Timestamp,Name,Nomor HP,Pekerjaan,Aplikasi yang paling sering digunakan,Hobby,Ukuran Laptop,Rentang Harga,Jenis laptop
 10/21/2021 21:29:01,Novi Anggreni,085851507715,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
 10/21/2021 21:29:11,Putu Sri Putri Laksmi,082146561128,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
-10/21/2021 21:29:29,Putu Ade Marwanasari,085935324141,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",13 Inch,5 - < 10 Juta,Student Laptop
+10/21/2021 21:29:29,Ade Marwanasari,085935324141,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",13 Inch,5 - < 10 Juta,Student Laptop
 10/21/2021 21:30:39,Putu Aristya Crisanty ,082236952200,Pelajar / Mahasiswa,Microsoft Office,Olahraga,14 Inch,5 - < 10 Juta,Student Laptop
-10/21/2021 21:31:50,Rosyida Aprilia Wulandari,087815649524,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
-10/21/2021 21:33:58,iin arindra,089524655988,Pelajar / Mahasiswa,Game,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
+10/21/2021 21:31:50,Rosyida Aprilia,087815649524,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
+10/21/2021 21:33:58,Iin Arindra,089524655988,Pelajar / Mahasiswa,Game,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
 10/21/2021 21:40:21,Made Nanda Regina Cahyanti,081227849993,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",12 Inch,< 5 juta,Student Laptop
 10/21/2021 21:41:59,Anak Agung Istri Vera Lestari Devi,082247269127,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",12 Inch,5 - < 10 Juta,Student Laptop
-10/21/2021 21:42:19,I made arya artha swandra ,081907510752,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
+10/21/2021 21:42:19,I made arya artha swandra ,081907510752,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,
 10/21/2021 21:42:36,I Gede Wira Prabaktya,087761228067,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,< 5 juta,Student Laptop
-10/21/2021 21:44:25,etha,081239303671,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
+10/21/2021 21:44:25,Etha Rambung,081239303671,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
 10/21/2021 21:46:33,Anisa,089536877952,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",13 Inch,< 5 juta,Student Laptop
-10/21/2021 21:54:22,agungpradnya7@gmail.com,081999459682,Pelajar / Mahasiswa,Microsoft Office,Olahraga,16 Inch,>= 20 Juta,Business Laptop / Ultrabook
+10/21/2021 21:54:22,Faizol Irawan,081999459682,Pelajar / Mahasiswa,Microsoft Office,Olahraga,16 Inch,>= 20 Juta,Business Laptop / Ultrabook
 10/21/2021 21:55:31,I Putu Indra Apkaranesa,081227841682,Pelajar / Mahasiswa,Microsoft Office,Olahraga,13 Inch,5 - < 10 Juta,Student Laptop
 10/21/2021 22:07:05,Anak Agung Bagus Jelantik Kusuma,087753735561,Pelajar / Mahasiswa,Microsoft Office,Olahraga,15 Inch,5 - < 10 Juta,Student Laptop
 10/21/2021 22:10:01,Ni Putu Oktaviani Putri,085665234172,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",13 Inch,5 - < 10 Juta,Student Laptop
@@ -19,27 +19,27 @@ Timestamp,Nama,Nomor HP,Pekerjaan,Aplikasi yang paling sering digunakan,Hobby,Uk
 10/22/2021 6:16:10,Ni Ketut Rahma Pratiwi Shanti,081236293723,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",13 Inch,15 - < 20 Juta,Business Laptop / Ultrabook
 10/22/2021 6:31:56,Cokorda Istri Ajeng Prameswari,081237035459,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
 10/22/2021 6:34:33,Ni Made Dwi Kumala Dewi,087865018731,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,< 5 juta,Student Laptop
-10/22/2021 6:39:04,trisia,081246587136,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",12 Inch,5 - < 10 Juta,Student Laptop
+10/22/2021 6:39:04,Trisia Wulandari,081246587136,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",12 Inch,5 - < 10 Juta,Student Laptop
 10/22/2021 9:22:25,Anak Agung Gde Eka Pramanadinatha Putra,082340863408,Pelajar / Mahasiswa,Microsoft Office,Olahraga,14 Inch,< 5 juta,Gaming Laptop / Multimedia Laptop
 10/23/2021 19:34:47,Made Sadwika Mahindra Dinata,087761077999,Pelajar / Mahasiswa,Game,Gaming,15 Inch,5 - < 10 Juta,Student Laptop
 10/24/2021 23:54:07,Gregor Indra,085721002251,Streamer / Content Creator / Designer,"Multimedia (Adobe Photoshop, Illustrator, dan lain-lain)",Gaming,14 Inch,10 - < 15 Juta,Business Laptop / Ultrabook
-10/24/2021 23:55:09,Marcel,081243681471,Karyawan (Programmer / Data Scientist / dan lain-lain),Game,Gaming,15 Inch,15 - < 20 Juta,Gaming Laptop / Multimedia Laptop
+10/24/2021 23:55:09,Marcell Hermawan,081243681471,Karyawan (Programmer / Data Scientist / dan lain-lain),Game,Gaming,15 Inch,15 - < 20 Juta,Gaming Laptop / Multimedia Laptop
 10/24/2021 23:55:57,Soka,081237672883,Business Owner,Microsoft Office,Olahraga,14 Inch,10 - < 15 Juta,Business Laptop / Ultrabook
 10/24/2021 23:58:40,Eval,082268540718,Streamer / Content Creator / Designer,Game,Gaming,15 Inch,10 - < 15 Juta,Gaming Laptop / Multimedia Laptop
 10/25/2021 10:09:19,Anggi,082236277936,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",15 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
 10/25/2021 10:17:06,dian,082145945969,Pelajar / Mahasiswa,Microsoft Office,Olahraga,14 Inch,5 - < 10 Juta,Student Laptop
 10/25/2021 10:21:47,Widhyadnyana Putra,086738537713,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Gaming,14 Inch,5 - < 10 Juta,Gaming Laptop / Multimedia Laptop
-10/25/2021 10:23:26,MAHA,081338667776,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",15 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
+10/25/2021 10:23:26,Ahmad Choiri,081338667776,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",15 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
 10/25/2021 10:23:35,I Gusti Ngurah Dananjaya Diputra,081215521571,Pelajar / Mahasiswa,"Multimedia (Adobe Photoshop, Illustrator, dan lain-lain)",Gaming,15 Inch,10 - < 15 Juta,Gaming Laptop / Multimedia Laptop
 10/25/2021 10:24:20,Sri Agustina,081238933859,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",15 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
-10/25/2021 10:24:46,Nia cahya,081547503789,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
-10/25/2021 10:25:35,Ckd,082189964383,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",16 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
-10/25/2021 10:27:36,Ferry,0877616556788,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Olahraga,13 Inch,< 5 juta,Business Laptop / Ultrabook
-10/25/2021 10:28:46,Chandra,082237604365,Karyawan (Programmer / Data Scientist / dan lain-lain),Game,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
+10/25/2021 10:24:46,Nia Cahyani,081547503789,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
+10/25/2021 10:25:35,Cokorda Raka Anggara,082189964383,Pelajar / Mahasiswa,Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",16 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
+10/25/2021 10:27:36,Ferry Nursalim,0877616556788,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Olahraga,13 Inch,< 5 juta,Business Laptop / Ultrabook
+10/25/2021 10:28:46,Chandra Wiharja,082237604365,Karyawan (Programmer / Data Scientist / dan lain-lain),Game,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
 10/25/2021 10:30:38,Sekar Dewi,085738887264,Pelajar / Mahasiswa,Game,Gaming,12 Inch,< 5 juta,Student Laptop
 10/25/2021 10:32:24,Anom Wiradarma,087761229139,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Gaming,14 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
-10/25/2021 10:35:23,A. A GEDE BAGUS PRADNYA ADIPUTRA,081238024316,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Olahraga,14 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
-10/25/2021 10:42:42,"Ni Putu Yunita Dewi,S.Ak",081239022109,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Olahraga,15 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
-10/25/2021 10:45:02,Diah,08993909291,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
+10/25/2021 10:35:23,A. A. Gede Bagus Pradnya Adipura,081238024316,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Olahraga,14 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
+10/25/2021 10:42:42,Ni Putu Yunita Dewi,081239022109,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,Olahraga,15 Inch,5 - < 10 Juta,Business Laptop / Ultrabook
+10/25/2021 10:45:02,Aisyah Diah Irawati,08993909291,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",14 Inch,5 - < 10 Juta,Student Laptop
 10/25/2021 10:47:55,Agung Winata,089539786672,Pelajar / Mahasiswa,Microsoft Office,Olahraga,12 Inch,5 - < 10 Juta,Student Laptop
-10/25/2021 10:52:58,vio,085739570794,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",12 Inch,5 - < 10 Juta,Student Laptop
+10/25/2021 10:52:58,Vio Sahertian,085739570794,Karyawan (Programmer / Data Scientist / dan lain-lain),Microsoft Office,"Design dan Seni (Musik, Film, dan lain-lain)",12 Inch,5 - < 10 Juta,Student Laptop
